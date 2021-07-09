@@ -1,4 +1,4 @@
-# Hey! Nice to see you. <img height="35" style="margin-left:5px" src="https://github.com/gabrieldp23/gabrieldp23/blob/main/animation.gif?raw=true">
+# Hey! Nice to see you. <img height="25" style="margin-left:5px" src="https://github.com/gabrieldp23/gabrieldp23/blob/main/animation.gif?raw=true">
 
 I'm Gabriel de Paula, developer from São Paulo, Brazil, currently living in state of Bahia.
 
