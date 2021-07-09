@@ -1,4 +1,4 @@
-# Hey! Nice to see you. <img height="45" style="position:absolute; bottom:5px; margin-left:5px" src="https://i.pinimg.com/originals/f0/f6/6e/f0f66e9196fe55d62653cf56c3585435.gif">
+# Hey! Nice to see you. <img height="45" style="margin-left:5px" src="https://i.pinimg.com/originals/f0/f6/6e/f0f66e9196fe55d62653cf56c3585435.gif">
 
 I'm Gabriel de Paula, developer from São Paulo, Brazil, currently living in state of Bahia.
 
@@ -9,15 +9,15 @@ In addition to programming, I also have experience with Design and 3D Modeling d
 ### 🛠 Languages and Tools:
 
   <div align="center">
-    <img height="35" style="margin:10px" src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="Csharp icon">
-    <img height="35" style="margin:10px" src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++ icon">
-    <img height="35" style="margin:10px" src="https://cdn.svgporn.com/logos/python.svg" alt="Python icon">
-    <img height="35" style="margin:10px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript icon">
-    <img height="35" style="margin:10px" src="https://cdn.svgporn.com/logos/react.svg" alt="React icon">
-    <img height="35" style="margin:10px" src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino icon">
-    <img height="35" style="margin:10px" src="https://icafe.lcisd.org/wp-content/uploads/ev3-logo-transparent.png" alt="LEGO EV3 icon">
-    <img height="35" style="margin:10px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VS Code icon">
-    <img height="35" style="margin:10px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git icon">
+    <img height="35" style="margin:20px" src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="Csharp icon">
+    <img height="35" style="margin:20px" src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++ icon">
+    <img height="35" style="margin:20px" src="https://cdn.svgporn.com/logos/python.svg" alt="Python icon">
+    <img height="35" style="margin:20px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript icon">
+    <img height="35" style="margin:20px" src="https://cdn.svgporn.com/logos/react.svg" alt="React icon">
+    <img height="35" style="margin:20px" src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino icon">
+    <img height="35" style="margin:20px" src="https://icafe.lcisd.org/wp-content/uploads/ev3-logo-transparent.png" alt="LEGO EV3 icon">
+    <img height="35" style="margin:20px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VS Code icon">
+    <img height="35" style="margin:20px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git icon">
     
   <div>
     This list will grow a lot... 🌱
