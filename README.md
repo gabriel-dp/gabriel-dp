@@ -70,11 +70,12 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 
 ### 🔎 Find me
 
-E-mail: gabriel.meira.2004@gmail.com
+<img height=11 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png">&nbsp;&nbsp; gabriel.meira.2004@gmail.com
 
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/gabrieldp23)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabs_dp_/)
 [![Marketplace Badge](https://img.shields.io/badge/VS%20Code%20Marketplace-blue?style=for-the-badge&logo=VisualStudioCode)](https://marketplace.visualstudio.com/publishers/Gabrieldp-dev)
 [![Autodesk Gallery](https://img.shields.io/badge/Autodesk%20Gallery-succes?style=for-the-badge&logo=Autodesk&logoColor=white)](https://gallery.autodesk.com/users/3WM6R3R9PCV8)
 
+<p align="right">👤</p>
 
