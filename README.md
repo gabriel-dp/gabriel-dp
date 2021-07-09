@@ -4,6 +4,8 @@ I'm Gabriel de Paula, developer from Brazil.&nbsp; <img height="15px" src="https
 
 A Enthusiastic of Robotics & Technology who started the developer career in 2019, during the High School with the **Brazilian Robotics Olympiad**. In addition to programming, I also have experience with Design and 3D Modeling due the **F1 in Schools** challenge.
 
+> *Always trying to improve myself and discover new things.*
+
 <p align="right">🤖</p>
 
 ---
@@ -25,41 +27,42 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 ---
 ### 👨‍💻 My main projects
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+<table>
+    <tr align=center>
+        <td><strong>sBotics - VS Code Extension</strong></td>
+        <td><strong>Coming soon...</strong></td>
+    </tr>
+    <tr align=center>
+        <td width=350>
+            <a href="https://marketplace.visualstudio.com/items?itemName=sbotics-simulator.sbotics-extension"><img width=125 src="https://sbotics-simulator.gallerycdn.vsassets.io/extensions/sbotics-simulator/sbotics-extension/1.0.4/1621730765308/Microsoft.VisualStudio.Services.Icons.Default"></a>
 
-  <div align=center>
+*Support and Snippets to rEduc and C#*
 
-  **sBotics - VS Code Extension**
+![Visual Studio Marketplace Installs - Azure DevOps Extension](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/sbotics-simulator.sbotics-extension?color=blue&label=Downloads&style=for-the-badge)
+        </td>
+        <td>
+            <a href="https://github.com/jvneto">
+                <img width="350" src="https://i1.wp.com/www.seniainternational.org/wp-content/uploads/2019/02/Coming-Soon-2-1.png?fit=1000%2C816&ssl=1">
+            </a>
+        </td>
+    </tr>
+</table>
 
-  <a href="https://marketplace.visualstudio.com/items?itemName=sbotics-simulator.sbotics-extension"><img width=100 src="https://sbotics-simulator.gallerycdn.vsassets.io/extensions/sbotics-simulator/sbotics-extension/1.0.4/1621730765308/Microsoft.VisualStudio.Services.Icons.Default"></a>
-
-  *Support and Snippets to rEduc and C#*
-
-  ![Visual Studio Marketplace Installs - Azure DevOps Extension](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/sbotics-simulator.sbotics-extension?color=blue&label=Downloads&style=for-the-badge)
-  </div>
-
-  <div align=center>
-
-  **sBotics - VS Code Extension**
-
-  <a href="https://marketplace.visualstudio.com/items?itemName=sbotics-simulator.sbotics-extension"><img width=100 src="https://sbotics-simulator.gallerycdn.vsassets.io/extensions/sbotics-simulator/sbotics-extension/1.0.4/1621730765308/Microsoft.VisualStudio.Services.Icons.Default"></a>
-
-  *Support and Snippets to rEduc and C#*
-
-  ![Visual Studio Marketplace Installs - Azure DevOps Extension](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/sbotics-simulator.sbotics-extension?color=blue&label=Downloads&style=for-the-badge)
-  </div>
-
-</div>
+<p align="right">✔</p>
 
 ---
 
 ### 🙋‍♂️ About me
 
-![Relative date](https://img.shields.io/date/1087603200?label=I%20was%20Born&style=for-the-badge)
+🏠 - From São Paulo, Brazil, but currently living in state of Bahia;
 
-I'm from São Paulo, Brazil, currently living in state of Bahia.
+👶 - 17 years old;
 
-> *Always trying to improve myself and discover new things.*
+🏀 - Basketball player (23);
+
+🤖 - Member of <a href="https://github.com/D4RKMODE">D4RKMODE</a>;
+
+🏎 - Member of <a href="https://www.instagram.com/swordfish.vca/">SwordFish</a>;
 
 <p align="right">🔥</p>
 
