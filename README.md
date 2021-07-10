@@ -36,19 +36,14 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
     <tr align=center>
         <td width=325 height=325>
             <p></p>
-            <a href="https://marketplace.visualstudio.com/items?itemName=sbotics-simulator.sbotics-extension"><img width=110 src="https://sbotics-simulator.gallerycdn.vsassets.io/extensions/sbotics-simulator/sbotics-extension/1.0.4/1621730765308/Microsoft.VisualStudio.Services.Icons.Default"></a>
-
-### **sBotics**
-
-*Support and Snippets to rEduc and C#*
-<br></p>
-
-![Visual Studio Marketplace Installs - Azure DevOps Extension](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/sbotics-simulator.sbotics-extension?color=blue&label=Downloads&style=for-the-badge)
+            <a href="https://marketplace.visualstudio.com/items?itemName=sbotics-simulator.sbotics-extension">
+                <img width=110 src="https://sbotics-simulator.gallerycdn.vsassets.io/extensions/sbotics-simulator/sbotics-extension/1.0.4/1621730765308/Microsoft.VisualStudio.Services.Icons.Default">
+            </a>   
+            <h3>sBotics</h3>
+            <p><i>Support and Snippets to rEduc and C#</i></p>
+            <img alt="sBotics Extension Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/sbotics-simulator.sbotics-extension?color=blue&label=DOWNLOADS&style=for-the-badge">
         </td>
-        <td>
-            <a>
-                <img width="325">
-            </a>
+        <td width="325">
         </td>
     </tr>
 </table>
@@ -59,15 +54,15 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 
 ### 🙋‍♂️ About me
 
-🏠 - From São Paulo, Brazil, but currently living in state of Bahia;
+🏠 - From São Paulo, Brazil, currently living in state of Bahia
 
-👶 - 17 years old;
+👶 - 17 years old
 
-🏀 - Basketball player (23);
+🏀 - Basketball player (23)
 
-🤖 - Member of <a href="https://github.com/D4RKMODE">D4RKMODE</a>;
+🤖 - Member of <a href="https://github.com/D4RKMODE">D4RKMODE</a>
 
-🏎 - Member of <a href="https://www.instagram.com/swordfish.vca/">SwordFish</a>.
+🏎 - Member of <a href="https://www.instagram.com/swordfish.vca/">SwordFish</a>
 
 <p align="right">🔥</p>
 
