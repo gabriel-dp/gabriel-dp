@@ -30,20 +30,24 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 
 <table>
     <tr align=center>
-        <td><strong>sBotics - VS Code Extension</strong></td>
+        <td><strong>VS Code Extension</strong></td>
         <td><strong>Coming soon...</strong></td>
     </tr>
     <tr align=center>
-        <td width=350>
-            <a href="https://marketplace.visualstudio.com/items?itemName=sbotics-simulator.sbotics-extension"><img width=125 src="https://sbotics-simulator.gallerycdn.vsassets.io/extensions/sbotics-simulator/sbotics-extension/1.0.4/1621730765308/Microsoft.VisualStudio.Services.Icons.Default"></a>
+        <td width=325 height=325>
+            <p></p>
+            <a href="https://marketplace.visualstudio.com/items?itemName=sbotics-simulator.sbotics-extension"><img width=110 src="https://sbotics-simulator.gallerycdn.vsassets.io/extensions/sbotics-simulator/sbotics-extension/1.0.4/1621730765308/Microsoft.VisualStudio.Services.Icons.Default"></a>
+
+### **sBotics**
 
 *Support and Snippets to rEduc and C#*
+<br></p>
 
 ![Visual Studio Marketplace Installs - Azure DevOps Extension](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/sbotics-simulator.sbotics-extension?color=blue&label=Downloads&style=for-the-badge)
         </td>
         <td>
-            <a href="https://github.com/jvneto">
-                <img width="350" src="https://i1.wp.com/www.seniainternational.org/wp-content/uploads/2019/02/Coming-Soon-2-1.png?fit=1000%2C816&ssl=1">
+            <a>
+                <img width="325">
             </a>
         </td>
     </tr>
