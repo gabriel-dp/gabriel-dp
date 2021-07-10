@@ -1,10 +1,10 @@
 # Hey! Nice to see you.&nbsp; <img height=23 src="./animation.gif">
 
-I'm Gabriel de Paula, developer from Brazil.&nbsp; <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png"/>
+I'm Gabriel de Paula, developer from Brazil.&nbsp; <img height="13px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png"/>
 
 A Enthusiastic of Robotics & Technology who started the developer career in 2019, during the High School with the **Brazilian Robotics Olympiad**. In addition to programming, I also have experience with Design and 3D Modeling due the **F1 in Schools** challenge.
 
-> *Always trying to improve myself and discover new things.*
+> *Always trying to be better and discover new things.*
 
 <p align="right">🤖</p>
 
@@ -19,12 +19,13 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 
   **Others**
 
-  | <img width=17.5 src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git icon"> | <img width=17.5 src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VS Code icon"> | <img width=17.5 src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino icon"> | <img width=17.5 src="https://www.logolynx.com/images/logolynx/dc/dce92a35d363f89b76bdf43a5776e2c4.jpeg" alt="LEGO EV3 icon">  | <img width=17.5 src="https://damassets.autodesk.net/content/dam/autodesk/social-media/badges/2019/fusion-360-icon-400px.png" alt="Fusion 360 icon"> | <img width=17.5 src="https://img.icons8.com/color/452/blender-3d.png" alt="Git icon"> |
+  | <img width=28.9 src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git icon"> | <img width=28.9 src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VS Code icon"> | <img width=28.9 src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino icon"> | <img width=28.9 src="https://www.logolynx.com/images/logolynx/dc/dce92a35d363f89b76bdf43a5776e2c4.jpeg" alt="LEGO EV3 icon">  | <img width=28.9 src="https://damassets.autodesk.net/content/dam/autodesk/social-media/badges/2019/fusion-360-icon-400px.png" alt="Fusion 360 icon"> | <img width=28.9 src="https://img.icons8.com/color/452/blender-3d.png" alt="Git icon"> |
   |:---:|:---:|:---:|:---:|:---:|:---:|
 
   <p align="right">🌱</p>
 
 ---
+
 ### 👨‍💻 My main projects
 
 <table>
@@ -62,7 +63,7 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 
 🤖 - Member of <a href="https://github.com/D4RKMODE">D4RKMODE</a>;
 
-🏎 - Member of <a href="https://www.instagram.com/swordfish.vca/">SwordFish</a>;
+🏎 - Member of <a href="https://www.instagram.com/swordfish.vca/">SwordFish</a>.
 
 <p align="right">🔥</p>
 
