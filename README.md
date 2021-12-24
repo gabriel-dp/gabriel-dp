@@ -33,19 +33,26 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 <table>
     <tr align=center>
         <td><strong>VS Code Extension</strong></td>
-        <td><strong>Coming soon...</strong></td>
+        <td><strong>VS Code Theme</strong></td>
     </tr>
     <tr align=center>
         <td width=325 height=325>
             <p></p>
             <a href="https://marketplace.visualstudio.com/items?itemName=sbotics-simulator.sbotics-extension">
-                <img width=110 src="https://sbotics-simulator.gallerycdn.vsassets.io/extensions/sbotics-simulator/sbotics-extension/1.0.4/1621730765308/Microsoft.VisualStudio.Services.Icons.Default">
+                <img height=110 src="https://sbotics-simulator.gallerycdn.vsassets.io/extensions/sbotics-simulator/sbotics-extension/1.0.4/1621730765308/Microsoft.VisualStudio.Services.Icons.Default">
             </a>   
             <h3>sBotics</h3>
             <p><i>Support and Snippets to rEduc and C#</i></p>
             <img alt="sBotics Extension Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/sbotics-simulator.sbotics-extension?color=blue&label=DOWNLOADS&style=for-the-badge">
         </td>
         <td width="325">
+            <p></p>
+            <a href="https://marketplace.visualstudio.com/items?itemName=Gabrieldp-dev.reduc-csharp-dracula#review-details">
+                <img height=110 src="https://gabrieldp-dev.gallerycdn.vsassets.io/extensions/gabrieldp-dev/reduc-csharp-dracula/1.0.2/1618618736429/Microsoft.VisualStudio.Services.Icons.Default">
+            </a>   
+            <h3>Dracula Theme</h3>
+            <p><i>Theme to rEduc and C#</i></p>
+            <img alt="sBotics Extension Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/gabrieldp-dev.reduc-csharp-dracula?color=blue&label=DOWNLOADS&style=for-the-badge">
         </td>
     </tr>
 </table>
