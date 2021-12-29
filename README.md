@@ -17,7 +17,7 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
   | <img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C#" height=50 width=40> | <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" height=50 width=40> | <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height=50 width=40> | <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" height=45 width=40> | <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" height=45 width=40> | <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height=50 width=40> |  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React Native" height=50 width=40> | <img src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="Three.js" height=50 width=40> |
   |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldp23&hide=Shell&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldp23&hide=Shell&layout=compact&theme=dark)
 
   **Others**
 
