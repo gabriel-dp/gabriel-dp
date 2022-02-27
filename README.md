@@ -21,43 +21,10 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 
   **Others**
 
-  | <img width=28.9 src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git icon"> | <img width=28.9 src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VS Code icon"> | <img width=28.9 src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino icon"> | <img width=28.9 src="https://www.logolynx.com/images/logolynx/dc/dce92a35d363f89b76bdf43a5776e2c4.jpeg" alt="LEGO EV3 icon">  | <img width=28.9 src="https://damassets.autodesk.net/content/dam/autodesk/social-media/badges/2019/fusion-360-icon-400px.png" alt="Fusion 360 icon"> | <img width=28.9 src="https://img.icons8.com/color/452/blender-3d.png" alt="Git icon"> |
-  |:---:|:---:|:---:|:---:|:---:|:---:|
+  | <img width=28.9 src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git icon"> | <img width=28.9 src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VS Code icon"> | <img width=28.9 src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino icon"> | <img width=28.9 src="https://damassets.autodesk.net/content/dam/autodesk/social-media/badges/2019/fusion-360-icon-400px.png" alt="Fusion 360 icon"> | <img width=28.9 src="https://img.icons8.com/color/452/blender-3d.png" alt="Git icon"> |
+  |:---:|:---:|:---:|:---:|:---:|
 
   <p align="right">🌱</p>
-
----
-
-### 👨‍💻 My main projects
-
-<table>
-    <tr align=center>
-        <td><strong>VS Code Extension</strong></td>
-        <td><strong>VS Code Theme</strong></td>
-    </tr>
-    <tr align=center>
-        <td width=325 height=325>
-            <p></p>
-            <a href="https://marketplace.visualstudio.com/items?itemName=sbotics-simulator.sbotics-extension">
-                <img height=110 src="https://sbotics-simulator.gallerycdn.vsassets.io/extensions/sbotics-simulator/sbotics-extension/1.0.4/1621730765308/Microsoft.VisualStudio.Services.Icons.Default">
-            </a>   
-            <h3>sBotics</h3>
-            <p><i>Support and Snippets to rEduc and C#</i></p>
-            <img alt="sBotics Extension Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/sbotics-simulator.sbotics-extension?color=blue&label=DOWNLOADS&style=for-the-badge">
-        </td>
-        <td width="325">
-            <p></p>
-            <a href="https://marketplace.visualstudio.com/items?itemName=Gabrieldp-dev.reduc-csharp-dracula#review-details">
-                <img height=110 src="https://gabrieldp-dev.gallerycdn.vsassets.io/extensions/gabrieldp-dev/reduc-csharp-dracula/1.0.2/1618618736429/Microsoft.VisualStudio.Services.Icons.Default">
-            </a>   
-            <h3>Dracula Theme</h3>
-            <p><i>Theme to rEduc and C#</i></p>
-            <img alt="sBotics Extension Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/gabrieldp-dev.reduc-csharp-dracula?color=blue&label=DOWNLOADS&style=for-the-badge">
-        </td>
-    </tr>
-</table>
-
-<p align="right">✔</p>
 
 ---
 
