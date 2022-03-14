@@ -30,7 +30,7 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 
 ### 🙋‍♂️ About me
 
-🏠 - From São Paulo, Brazil, currently living in Bahia
+🏠 - From São Paulo, Brazil, currently living in São João Del Rei/MG
 
 👶 - 17 years old
 
