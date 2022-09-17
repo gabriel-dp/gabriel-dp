@@ -1,4 +1,4 @@
-# Hey! Nice to see you.&nbsp; <img height=23 src="./animation.gif">
+# Hey! Nice to see you.&nbsp;<img height=28 src='./animation.gif'>
 
 I'm Gabriel de Paula, developer from Brazil.&nbsp; <img height="13px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png"/>
 
