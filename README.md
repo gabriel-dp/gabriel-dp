@@ -10,21 +10,21 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 
 ---
 
-### 💻 I work with...
+### 💻 I work with
   
-  **Languages and Frameworks**
+#### Languages and Frameworks
 
-  | <img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C#" height=50 width=40> | <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" height=50 width=40> | <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height=50 width=40> | <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" height=45 width=40> | <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" height=45 width=40> | <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height=50 width=40> |  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React Native" height=50 width=40> | <img src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="Three.js" height=50 width=40> |
-  |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+  | <a href='https://github.com/gabrieldp23?tab=repositories&language=c'><img src="https://cdn.svgporn.com/logos/c.svg" alt="Three.js" height=50 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=c%2B%2B'><img src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" height=50 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=c%23'><img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C#" height=50 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=python'><img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height=50 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=javascript'><img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" height=45 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=javascript'><img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" height=45 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=javascript'><img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height=50 width=40></a> |  <a href='https://github.com/gabrieldp23?tab=repositories&language=javascript'><img src="https://cdn.svgporn.com/logos/react.svg" alt="React Native" height=50 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=javascript'><img src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="Three.js" height=50 width=40></a> |
+  |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldp23&hide=Shell&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldp23&layout=compact&theme=github_dark)
 
-  **Others**
+#### Others
 
-  | <img width=28.9 src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git icon"> | <img width=28.9 src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VS Code icon"> | <img width=28.9 src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino icon"> | <img width=28.9 src="https://damassets.autodesk.net/content/dam/autodesk/social-media/badges/2019/fusion-360-icon-400px.png" alt="Fusion 360 icon"> | <img width=28.9 src="https://img.icons8.com/color/452/blender-3d.png" alt="Git icon"> |
-  |:---:|:---:|:---:|:---:|:---:|
+| <img width=28.9 src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git icon"> | <img width=28.9 src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VS Code icon"> | <img width=28.9 src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino icon"> | <img width=28.9 src="https://damassets.autodesk.net/content/dam/autodesk/social-media/badges/2019/fusion-360-icon-400px.png" alt="Fusion 360 icon"> | <img width=28.9 src="https://img.icons8.com/color/452/blender-3d.png" alt="Git icon"> |
+|:---:|:---:|:---:|:---:|:---:|
 
-  <p align="right">🌱</p>
+<p align="right">🌱</p>
 
 ---
 
@@ -36,9 +36,9 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 
 🏀 - Basketball player (23)
 
-🤖 - Member of <a href="https://github.com/D4RKMODE">D4RKMODE</a>
+🤖 - Founder of [D4RKMODE](https://github.com/D4RKMODE)
 
-🏎 - Member of <a href="https://www.instagram.com/swordfish.vca/">SwordFish</a>
+🏎 - Founder of [SwordFish](https://www.instagram.com/swordfish.vca/)
 
 <p align="right">🔥</p>
 
@@ -53,4 +53,3 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 [![Autodesk Gallery](https://img.shields.io/badge/Autodesk%20Gallery-succes?style=for-the-badge&logo=Autodesk&logoColor=white)](https://gallery.autodesk.com/users/3WM6R3R9PCV8)
 
 <p align="right">👤</p>
-
