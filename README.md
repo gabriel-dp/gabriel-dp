@@ -17,7 +17,7 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
   | <a href='https://github.com/gabrieldp23?tab=repositories&language=c'><img src="https://cdn.svgporn.com/logos/c.svg" alt="Three.js" height=50 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=c%2B%2B'><img src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" height=50 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=c%23'><img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C#" height=50 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=python'><img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height=50 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=javascript'><img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" height=45 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=javascript'><img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" height=45 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=javascript'><img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height=50 width=40></a> |  <a href='https://github.com/gabrieldp23?tab=repositories&language=javascript'><img src="https://cdn.svgporn.com/logos/react.svg" alt="React Native" height=50 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=javascript'><img src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="Three.js" height=50 width=40></a> |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldp23&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dp&layout=compact&theme=github_dark)
 
 #### Others
 
@@ -46,7 +46,7 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 
 ### 🔎 Find me
 
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/gabrieldp23)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/gabriel-dp)
 [![Email Badge](https://img.shields.io/badge/-Email-C33027?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gabriel.meira.2004@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabs_dp_/)
 [![Marketplace Badge](https://img.shields.io/badge/VS%20Code%20Marketplace-blue?style=for-the-badge&logo=VisualStudioCode)](https://marketplace.visualstudio.com/publishers/Gabrieldp-dev)
