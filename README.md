@@ -39,9 +39,11 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 
 ## 🙋‍♂️ About me
 
+👶 18 years old
+
 🏠 From São Paulo/SP, currently living in São João Del Rei/MG
 
-👶 18 years old
+📚 Computer Science student at UFSJ
 
 🏀 Basketball player (23)
 
