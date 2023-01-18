@@ -1,55 +1,61 @@
-# Hey! Nice to see you.&nbsp;<img height=28 src='./animation.gif'>
+# Hey! Nice to see you. ![Smile Face](./animation.gif)
 
-I'm Gabriel de Paula, developer from Brazil.&nbsp; <img height="13px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png"/>
+I'm Gabriel de Paula, developer from Brazil. &nbsp;![Brazil Flag](./brazil.png)
 
 A Enthusiastic of Robotics & Technology who started the developer career in 2019, during the High School with the **Brazilian Robotics Olympiad**. In addition to programming, I also have experience with Design and 3D Modeling due the **F1 in Schools** challenge.
 
 > *Always trying to be better and discover new things.*
 
-<p align="right">🤖</p>
+&nbsp;
 
----
-
-### 💻 I work with
+## 💻 I work with
   
-#### Languages and Frameworks
+### Languages
 
-  | <a href='https://github.com/gabrieldp23?tab=repositories&language=c'><img src="https://cdn.svgporn.com/logos/c.svg" alt="Three.js" height=50 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=c%2B%2B'><img src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" height=50 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=c%23'><img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C#" height=50 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=python'><img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height=50 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=javascript'><img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" height=45 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=javascript'><img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" height=45 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=javascript'><img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height=50 width=40></a> |  <a href='https://github.com/gabrieldp23?tab=repositories&language=javascript'><img src="https://cdn.svgporn.com/logos/react.svg" alt="React Native" height=50 width=40></a> | <a href='https://github.com/gabrieldp23?tab=repositories&language=javascript'><img src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="Three.js" height=50 width=40></a> |
-  |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[![C](https://img.shields.io/badge/C-7f8b99?style=for-the-badge&logo=c&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=C)
+[![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=C%2B%2B)
+[![C#](https://img.shields.io/badge/C%23-05930c?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=C%23)
+[![Python](https://img.shields.io/badge/Python-3772a3?style=for-the-badge&logo=python&logoColor=ffd040)](https://github.com/gabriel-dp?tab=repositories&language=Python)
+[![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/gabriel-dp?tab=repositories&language=JavaScript)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dp&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dp&layout=compact&theme=github_dark&langs_count=4)
+
+### Frameworks and libs
+
+[![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black)](https://github.com/gabriel-dp?tab=repositories&q=React)
+[![Express](https://img.shields.io/badge/Express-303030?style=for-the-badge&logo=express&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=Express)
+[![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=styled-components)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=threejs)
+[![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=selenium)
 
 #### Others
 
-| <img width=28.9 src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git icon"> | <img width=28.9 src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VS Code icon"> | <img width=28.9 src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino icon"> | <img width=28.9 src="https://damassets.autodesk.net/content/dam/autodesk/social-media/badges/2019/fusion-360-icon-400px.png" alt="Fusion 360 icon"> | <img width=28.9 src="https://img.icons8.com/color/452/blender-3d.png" alt="Git icon"> |
-|:---:|:---:|:---:|:---:|:---:|
+![Git](https://img.shields.io/badge/Git-de4c36?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCODE-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white)
 
-<p align="right">🌱</p>
+&nbsp;
 
----
+## 🙋‍♂️ About me
 
-### 🙋‍♂️ About me
+🏠 | From São Paulo/SP, currently living in São João Del Rei/MG
 
-🏠 - From São Paulo, Brazil, currently living in São João Del Rei/MG
+👶 | 18 years old
 
-👶 - 18 years old
+🏀 | Basketball player (23)
 
-🏀 - Basketball player (23)
+🤖 | Founder of [D4RKMODE](https://github.com/D4RKMODE)
 
-🤖 - Founder of [D4RKMODE](https://github.com/D4RKMODE)
+🏎 | Founder of [SwordFish](https://www.instagram.com/swordfish.vca/)
 
-🏎 - Founder of [SwordFish](https://www.instagram.com/swordfish.vca/)
+&nbsp;
 
-<p align="right">🔥</p>
+## 🔎 Find me
 
----
-
-### 🔎 Find me
-
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/gabriel-dp)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/gabriel-dp)
 [![Email Badge](https://img.shields.io/badge/-Email-C33027?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gabriel.meira.2004@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabs_dp_/)
-[![Marketplace Badge](https://img.shields.io/badge/VS%20Code%20Marketplace-blue?style=for-the-badge&logo=VisualStudioCode)](https://marketplace.visualstudio.com/publishers/Gabrieldp-dev)
 [![Autodesk Gallery](https://img.shields.io/badge/Autodesk%20Gallery-succes?style=for-the-badge&logo=Autodesk&logoColor=white)](https://gallery.autodesk.com/users/3WM6R3R9PCV8)
 
-<p align="right">👤</p>
+&nbsp;
