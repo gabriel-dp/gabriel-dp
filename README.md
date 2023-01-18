@@ -1,6 +1,6 @@
-# Hey! Nice to see you. ![Smile Face](./animation.gif)
+# Hey! Nice to see you. ![Smile Face](./assets/animation.gif)
 
-I'm Gabriel de Paula, developer from Brazil. ![Brazil Flag](./brazil.png)
+I'm Gabriel de Paula, developer from Brazil. ![Brazil Flag](./assets/brazil.png)
 
 A Enthusiastic of Robotics & Technology who started the developer career in 2019, during the High School with the **Brazilian Robotics Olympiad**. In addition to programming, I also have experience with Design and 3D Modeling due the **F1 in Schools** challenge.
 
