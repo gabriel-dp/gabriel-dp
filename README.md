@@ -18,9 +18,9 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/gabriel-dp?tab=repositories&language=JavaScript)
 [![Python](https://img.shields.io/badge/Python-3772a3?style=for-the-badge&logo=python&logoColor=ffd040)](https://github.com/gabriel-dp?tab=repositories&language=Python)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dp&layout=compact&theme=github_dark&langs_count=4)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dp&layout=compact&theme=github_dark&langs_count=4)](https://github.com/gabriel-dp?tab=repositories)
 
-### Frameworks and libs
+### Frameworks and Libs
 
 [![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black)](https://github.com/gabriel-dp?tab=repositories&q=React)
 [![Express](https://img.shields.io/badge/Express-303030?style=for-the-badge&logo=express&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=Express)
@@ -31,6 +31,7 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 #### Others
 
 ![Git](https://img.shields.io/badge/Git-de4c36?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCODE-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white)
