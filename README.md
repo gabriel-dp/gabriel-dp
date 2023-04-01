@@ -17,9 +17,10 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 [![C#](https://img.shields.io/badge/C%23-05930c?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=C%23)
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/gabriel-dp?tab=repositories&language=JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=TypeScript)
-[![Python](https://img.shields.io/badge/Python-ffd040?style=for-the-badge&logo=python&logoColor=3772a3)](https://github.com/gabriel-dp?tab=repositories&language=Python)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=Python)
+[![Python](https://img.shields.io/badge/Python-3772a3?style=for-the-badge&logo=python&logoColor=ffd040)](https://github.com/gabriel-dp?tab=repositories&language=Python)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dp&layout=compact&theme=github_dark&langs_count=4)](https://github.com/gabriel-dp?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dp&layout=compact&theme=github_dark&langs_count=6)](https://github.com/gabriel-dp?tab=repositories)
 
 ### Frameworks and Libs
 
