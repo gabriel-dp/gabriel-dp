@@ -42,7 +42,7 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 
 ## 🙋‍♂️ About me
 
-👶 18 years old
+👶 19 years old
 
 🏠 From São Paulo/SP, currently living in São João Del Rei/MG
 
