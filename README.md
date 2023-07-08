@@ -20,7 +20,7 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=Java)
 [![Python](https://img.shields.io/badge/Python-3772a3?style=for-the-badge&logo=python&logoColor=ffd040)](https://github.com/gabriel-dp?tab=repositories&language=Python)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dp&layout=compact&theme=transparent&langs_count=6)](https://github.com/gabriel-dp?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dp&layout=compact&theme=github_dark&langs_count=6)](https://github.com/gabriel-dp?tab=repositories)
 
 ### Frameworks and Libs
 
