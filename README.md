@@ -32,11 +32,10 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 
 #### Others
 
-![Git](https://img.shields.io/badge/Git-de4c36?style=for-the-badge&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCODE-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white)
+[![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=NodeJS)
+[![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=MYSQL&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=MySQL)
+[![MongoDB](https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=MongoDB)
+[![Arduino](https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=Arduino)
 
 &nbsp;
 
