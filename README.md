@@ -22,7 +22,7 @@ An enthusiastic software developer and Computer Science student. I began my jour
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=Java)
 [![Python](https://img.shields.io/badge/Python-3772a3?style=for-the-badge&logo=python&logoColor=ffd040)](https://github.com/gabriel-dp?tab=repositories&language=Python)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dp&layout=compact&theme=transparent&langs_count=6&size_weight=0&count_weight=1&custom_title=Most%20Repos%20by%20Language)](https://github.com/gabriel-dp?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dp&layout=compact&theme=transparent&langs_count=6&size_weight=0&count_weight=1&custom_title=Top%20languages%20by%20repos)](https://github.com/gabriel-dp?tab=repositories)
 
 ### Frameworks and Libs
 
