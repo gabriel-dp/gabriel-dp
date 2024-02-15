@@ -1,8 +1,10 @@
 # Hey! Nice to see you. ![Smile Face](./assets/animation.gif)
 
-I'm Gabriel de Paula, developer from Brazil. ![Brazil Flag](./assets/brazil.png)
+[`gabriel-dp.github.io`](https://gabriel-dp.github.io/)
 
-A Enthusiastic of Robotics & Technology who started the developer career in 2019, during the High School with the **Brazilian Robotics Olympiad**. In addition to programming, I also have experience with Design and 3D Modeling due the **F1 in Schools** challenge.
+I'm Gabriel de Paula, developer from Brazil 🇧🇷
+
+An enthusiastic software developer and Computer Science student. I began my journey in 2019 with robotics, and since then, my focus has been on tackling challenges, creating efficient and scalable solutions.
 
 > *Always trying to be better and discover new things.*
 
@@ -20,7 +22,7 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=Java)
 [![Python](https://img.shields.io/badge/Python-3772a3?style=for-the-badge&logo=python&logoColor=ffd040)](https://github.com/gabriel-dp?tab=repositories&language=Python)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dp&layout=compact&theme=github_dark&langs_count=6)](https://github.com/gabriel-dp?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dp&layout=compact&theme=transparent&langs_count=6&size_weight=0&count_weight=1&custom_title=Most%20Repos%20by%20Language)](https://github.com/gabriel-dp?tab=repositories)
 
 ### Frameworks and Libs
 
@@ -43,11 +45,9 @@ A Enthusiastic of Robotics & Technology who started the developer career in 2019
 
 👶 19 years old
 
-🏠 From São Paulo/SP, currently living in São João Del Rei/MG
-
 📚 Computer Science student at UFSJ
 
-🏀 Basketball player (23)
+🏠 From São Paulo / SP, currently living in São João Del Rei / MG
 
 🤖 Founder of [D4RKMODE](https://github.com/D4RKMODE) and [SwordFish](https://www.instagram.com/swordfish.vca/)
 
