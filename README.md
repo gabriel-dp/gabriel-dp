@@ -43,7 +43,7 @@ An enthusiastic software developer and Computer Science student. I began my jour
 
 ## 🙋‍♂️ About me
 
-👶 19 years old
+👶 20 years old
 
 📚 Computer Science student at UFSJ
 
