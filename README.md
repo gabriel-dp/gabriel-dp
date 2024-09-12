@@ -16,7 +16,7 @@ An enthusiastic software developer and Computer Science student. I began my jour
 
 [![C](https://img.shields.io/badge/C-7f8b99?style=for-the-badge&logo=c&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=C)
 [![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=C%2B%2B)
-[![C#](https://img.shields.io/badge/C%23-05930c?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=C%23)
+[![C#](https://img.shields.io/badge/C%23-05930c?style=for-the-badge&logo=cloudera&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=C%23)
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/gabriel-dp?tab=repositories&language=JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=TypeScript)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=Java)
@@ -27,6 +27,7 @@ An enthusiastic software developer and Computer Science student. I began my jour
 ### Frameworks and Libs
 
 [![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black)](https://github.com/gabriel-dp?tab=repositories&q=React)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=Nextjs)
 [![Express](https://img.shields.io/badge/Express-303030?style=for-the-badge&logo=express&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=Express)
 [![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=styled-components)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=threejs)
@@ -38,6 +39,7 @@ An enthusiastic software developer and Computer Science student. I began my jour
 [![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=MYSQL&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=MySQL)
 [![MongoDB](https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=MongoDB)
 [![Arduino](https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=Arduino)
+[![CorelDRAW](https://img.shields.io/badge/CorelDRAW-61a706?style=for-the-badge&logo=coreldraw&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=CorelDRAW)
 
 &nbsp;
 
