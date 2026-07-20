@@ -22,7 +22,7 @@ An enthusiastic software developer and Computer Science student. I began my jour
 [![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=C%2B%2B)
 [![C#](https://img.shields.io/badge/C%23-05930c?style=for-the-badge&logo=cloudera&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&language=C%23)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dp&layout=compact&theme=transparent&langs_count=6&size_weight=0.5&count_weight=0.5&custom_title=Top%20languages%20by%20repositories)](https://github.com/gabriel-dp?tab=repositories)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=gabriel-dp&layout=compact&langs_count=6&hide_values=true&theme=transparent&custom_title=Top%20languages%20by%20repos&size_weight=0&count_weight=1&hide=HTML,CSS,Dockerfile,Jupyter%20Notebook,Makefile)](https://github.com/gabriel-dp?tab=repositories)
 
 ### Frameworks and Libs
 
@@ -37,7 +37,7 @@ An enthusiastic software developer and Computer Science student. I began my jour
 
 #### Others
 
-[![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=NodeJS)
+[![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=PostgreSQL)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=PostgreSQL)
 [![MongoDB](https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/gabriel-dp?tab=repositories&q=MongoDB)
 [![MySQL](https://img.shields.io/badge/MySQL-326790?style=for-the-badge&logo=mysql&logoColor=e58e01)](https://github.com/gabriel-dp?tab=repositories&q=MySQL)
@@ -49,11 +49,11 @@ An enthusiastic software developer and Computer Science student. I began my jour
 
 ## 🙋‍♂️ About me
 
-👶 20 years old
+👶 22 years old
 
-📚 Computer Science student at UFSJ
+💼 Software Developer at Alude
 
-💼 Full Stack Development Intern at Exati
+📚 Computer Science Master's student at UFSJ
 
 🏠 From São Paulo / SP, currently living in São João Del Rei / MG
 
@@ -65,5 +65,5 @@ An enthusiastic software developer and Computer Science student. I began my jour
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-paula-meira/)
 [![Email](https://img.shields.io/badge/-Email-C33027?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gabriel.meira.2004@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabs_dp_/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.dp._/)
 [![Autodesk Gallery](https://img.shields.io/badge/Autodesk%20Gallery-succes?style=for-the-badge&logo=Autodesk&logoColor=white)](https://gallery.autodesk.com/users/3WM6R3R9PCV8)
